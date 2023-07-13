@@ -1,0 +1,13 @@
+.table__toolbar {
+    padding: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #ffffff;
+}
+
+.table__toolbar__input {
+    display: flex;
+    align-items: center;
+}
+

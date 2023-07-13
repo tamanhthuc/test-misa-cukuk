@@ -1,0 +1,24 @@
+.logo {
+    /* position: fixed;
+    top: 0; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--purple);
+    width: 200px;
+    height: 56px;
+}
+
+.logo__web {
+    margin-right: 12px;
+}
+
+.logo__web img {
+    width: 36px;
+    height: 36px;
+}
+
+.logo__text {
+    color: var(--white);
+    font-weight: 600;
+}

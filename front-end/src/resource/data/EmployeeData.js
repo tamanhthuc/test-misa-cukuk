@@ -1,0 +1,18 @@
+export const DEFAULT_EMPLOYEE = {
+    EmployeeCode: null,
+    FullName: null,
+    DateOfBirth: null,
+    Gender: 1,
+    DepartmentName: null,
+    IdentityNumber: null,
+    IdentityDate: null,
+    PositionName: null,
+    IdentityPlace: null,
+    Address: null,
+    PhoneNumber: null,
+    TelephoneNumber: null,
+    Email: null,
+    BankAccount: null,
+    BankName: null,
+    BankBranch: null,
+};

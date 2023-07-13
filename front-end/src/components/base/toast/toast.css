@@ -1,0 +1,45 @@
+.toast {
+    height: 56px;
+    width: 498px;
+    color: #fff;
+    position: fixed;
+    left: 50px;
+    top: 10%;
+    border-radius: 4px;
+    z-index: 9999;
+}
+
+.toast__container {
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.toast__notice {
+    display: flex;
+    align-items: center;
+}
+
+.toast__notice__text {
+    color: #fff;
+}
+
+.toast__notice__text span {
+    font-weight: 600;
+}
+
+
+
+.toast__notice__text--strong {
+    color: #fff;
+}
+
+.success {
+    background: #50B83C;
+}
+
+.error {
+    background: red;
+}
+

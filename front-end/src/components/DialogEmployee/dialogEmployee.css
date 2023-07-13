@@ -1,0 +1,25 @@
+.dialog__content__info {
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+    column-gap: 16px;
+   
+    padding: 0px 24px;
+}
+
+.dialog__content__info__left {
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+    flex: 50%;
+    column-gap: 8px;
+}
+
+.dialog__content__info__right {
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+    column-gap: 8px;
+    flex: 50%;
+    
+}

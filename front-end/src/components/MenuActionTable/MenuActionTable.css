@@ -1,0 +1,41 @@
+.col_action_table:hover {
+    border: 1px solid #cccccc;
+}
+
+.col_action_table.active {
+    border: 1px solid #cccccc;
+
+}
+
+.dropdown__col__action__container {
+    width: 150px;
+    background: #ffffff;
+    border-radius: 4px;
+    z-index: 90;
+    border: 1px solid #e0e0e0;
+    position: absolute;
+    top: 0;
+    top: 70%;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 4px;
+}
+
+.dropdown__col__action {
+  
+    background: #ffffff;
+    padding: 8px 0;
+}
+
+.dropdown__col__action__container__text {
+    
+    text-align: left;
+    cursor: pointer;
+    padding: 8px;
+}
+
+.dropdown__col__action__container__text:hover {
+    background: grey;
+    color: #ffffff;
+
+}

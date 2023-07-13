@@ -1,0 +1,68 @@
+.header {
+    height: 56px;
+    background: var(--white);
+    /* position: fixed;
+    z-index: 2;
+    top: 0;
+    right: 0;
+    left: 200px; */
+    padding: 0 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.header__left {
+    display: flex;
+    align-items: center;
+}
+
+.header__icon__nav {
+    margin-right: 24px;
+    background: url('../../assets/Sprites.64af8f61.svg') no-repeat -847px -35px;
+    width: 16px;
+    height: 16px;
+}
+
+
+.header__left__text p{
+    color: var(--black);
+    cursor: pointer;
+     font-weight: 600;
+    font-size: 16px;
+}
+
+.header__left__drop {
+    background: url('../../assets/Sprites.64af8f61.svg') no-repeat  -948px -366px;
+    width: 8px;
+    height: 5px;
+
+}
+
+
+.header__right {
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+.header__right__avatar {
+    margin-right: 24px;
+    background: url('../../assets/Sprites.64af8f61.svg') no-repeat  -352px -894px;
+    width: 32px;
+    height: 32px;
+}
+
+.header__right__info--drop {
+    background: url('../../assets/Sprites.64af8f61.svg') no-repeat  -948px -366px;
+    width: 8px;
+    height: 5px;
+
+}
+
+.sidebar__container {
+    padding: 12px;
+}

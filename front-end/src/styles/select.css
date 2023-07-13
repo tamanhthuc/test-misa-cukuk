@@ -1,0 +1,22 @@
+.select__container {
+    width: 100%;
+}
+
+.select__container select {
+    width: 100%;
+    height: 36px;
+}
+
+.select__label {
+    margin-bottom: 8px;
+}
+
+.select__label span {
+    color: red;
+    font-weight: 600;
+}
+
+
+.option {
+    padding: 6px;
+}

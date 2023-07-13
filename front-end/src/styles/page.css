@@ -1,0 +1,25 @@
+.page-container {
+    height: 100%;
+    width: 100%;
+}
+
+.page-content {
+    height: 100%;
+    width: 100%;
+    background: var(--white);
+}
+
+
+.page-header-name {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+    

@@ -1,0 +1,10 @@
+.input-date-container {
+    position: relative;
+}
+
+.icon-flat-picker-container {
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translate(0, -50%);
+}

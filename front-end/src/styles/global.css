@@ -1,0 +1,193 @@
+@import "./variable.css";
+@import "./icon.css";
+@import "./tooltip.css";
+@import "./layout/main.css";
+@import "./input.css";
+@import "./page.css";
+@import url("./select.css");
+@import url("./radio.css");
+@import url("./themepopper.css");
+
+@font-face {
+    font-family: "notosans";
+    src: url("../assets/fonts/notosans-regular.2cb88a13.woff2");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "notosans";
+    src: url("../assets/fonts/notosans-bold.3ede5aff.woff2");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "notosans";
+    src: url("../assets/fonts/notosans-italic.1c1aaac9.woff2");
+    font-style: italic
+}
+
+
+@font-face {
+    font-family: "notosans";
+    src: url("../assets/fonts/notosans-semibold.df3e6dc4.woff2");
+    font-weight: 600;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    user-select: none;
+    /* color: #212121; */
+    color: var(--primary-color);
+    font-family: 'notosans', sans-serif;
+}
+
+body,
+html {
+    overflow: hidden;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+html {
+    font-size: 14px;
+    background: #cccc;
+}
+
+label {
+    color: black;
+}
+
+.container {
+    margin: 32px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mb-0 {
+    margin-bottom: 0 !important;
+}
+
+.ml-2 {
+    margin-left: 8px;
+}
+
+.ml-3{
+    margin-left: 12px;
+}
+
+.ml-4 {
+    margin-left: 16px;
+}
+
+.mr-4 {
+    margin-right: 16px;
+}
+.mr-3 {
+    margin-right: 12px;
+}
+
+.mr-2 {
+    margin-right: 8px;
+}
+
+.mr-5 {
+    margin-right: 20px;
+}
+
+.mr-6 {
+    margin-right: 24px
+}
+
+.mr-1 {
+    margin-right: 4px;
+}
+
+.mb-0 {
+    margin-bottom: 0;
+}
+
+.text--white {
+    color: #fff;
+}
+
+.pr-4 {
+    padding-right: 16px;
+}
+
+.px-3{
+    padding: 0 12px;
+}
+
+.px-4{
+    padding: 0 16px;
+}
+
+.mx-4 {
+    margin: 0 16px;
+}
+
+.mx-6 {
+    margin: 0 24px;
+
+}
+
+.text--right {
+    text-align: right !important;
+}
+
+.text--left {
+    text-align: left !important ;
+}
+
+.text--center {
+    text-align: center !important ;
+}
+
+.text--green {
+    color: green;
+}
+
+.show {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
+
+.flex-center{
+    display: flex;
+    align-items: center;
+}
+
+.not-allowed {
+    cursor: not-allowed;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.error-message {
+    color: red;
+}
+
+.d-flex {
+    display: flex;
+}
+.g-2{
+    column-gap: 8px;
+}
+
+.txt-strong {
+    font-weight: 700;
+}

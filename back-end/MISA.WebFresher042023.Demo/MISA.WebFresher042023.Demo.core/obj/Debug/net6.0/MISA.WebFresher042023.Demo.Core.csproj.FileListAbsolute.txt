@@ -1,0 +1,14 @@
+E:\BT_Misa\web202304\tmthuc\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.core\bin\Debug\net6.0\MISA.WebFresher042023.Demo.Core.deps.json
+E:\BT_Misa\web202304\tmthuc\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.core\bin\Debug\net6.0\MISA.WebFresher042023.Demo.Core.dll
+E:\BT_Misa\web202304\tmthuc\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.core\bin\Debug\net6.0\MISA.WebFresher042023.Demo.Core.pdb
+E:\BT_Misa\web202304\tmthuc\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.core\obj\Debug\net6.0\MISA.WebFresher042023.Demo.Core.csproj.AssemblyReference.cache
+E:\BT_Misa\web202304\tmthuc\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.core\obj\Debug\net6.0\MISA.WebFresher042023.Demo.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\BT_Misa\web202304\tmthuc\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.core\obj\Debug\net6.0\MISA.WebFresher042023.Demo.Core.AssemblyInfoInputs.cache
+E:\BT_Misa\web202304\tmthuc\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.core\obj\Debug\net6.0\MISA.WebFresher042023.Demo.Core.AssemblyInfo.cs
+E:\BT_Misa\web202304\tmthuc\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.core\obj\Debug\net6.0\MISA.WebFresher042023.Demo.Core.csproj.CoreCompileInputs.cache
+E:\BT_Misa\web202304\tmthuc\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.core\obj\Debug\net6.0\MISA.WebFresher042023.Demo.Core.dll
+E:\BT_Misa\web202304\tmthuc\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.core\obj\Debug\net6.0\refint\MISA.WebFresher042023.Demo.Core.dll
+E:\BT_Misa\web202304\tmthuc\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.core\obj\Debug\net6.0\MISA.WebFresher042023.Demo.Core.pdb
+E:\BT_Misa\web202304\tmthuc\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.core\obj\Debug\net6.0\ref\MISA.WebFresher042023.Demo.Core.dll
+E:\BT_Misa\web202304\tmthuc\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.core\obj\Debug\net6.0\MISA.WebFresher042023.Demo.Core.Resources.ResourceVN.resources
+E:\BT_Misa\web202304\tmthuc\aspnetcore\MISA.WebFresher042023.Demo\MISA.WebFresher042023.Demo.core\obj\Debug\net6.0\MISA.WebFresher042023.Demo.Core.csproj.GenerateResource.cache

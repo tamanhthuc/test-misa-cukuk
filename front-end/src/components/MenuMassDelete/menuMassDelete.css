@@ -1,0 +1,33 @@
+.menu-delete {
+    background: #ffffff;
+    border: 1px solid rgb(158 158 158);;
+    height: 36px;
+    padding: 8px 32px 8px 12px;
+    border-radius: 16px ;
+    position: relative;
+    cursor: pointer;
+    
+}
+
+
+.menu-icon {
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    right: 12px;
+}
+
+.menu-list {
+    min-width: 100px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 8px;
+    
+    position: absolute;
+    top: 110%;
+    z-index: 900;
+    right: 0;
+}
+
+.menu-list:hover {
+    background: #cccccc;
+}
